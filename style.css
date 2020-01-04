@@ -1,0 +1,30 @@
+/* css reset */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.bg-dark {
+  background: #000;
+  color: #fff;
+}
+
+.bg-light {
+    background: #f4f4f4;
+    color:#000;
+}
+
+.bg-primary {
+}
+
+/* Landing Page Styling */
+
+#landing-page{
+    height:100vh;
+
+}
